@@ -3,12 +3,6 @@
 
 > https://saraa-portfolio.github.io
 
-![GitHub stars](https://img.shields.io/github/stars/saraa-portfolio/saraa-portfolio.github.io)  
-![GitHub forks](https://img.shields.io/github/forks/saraa-portfolio/saraa-portfolio.github.io)  
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/saraa-portfolio/saraa-portfolio.github.io/commits/master)  
-[![Website](https://img.shields.io/badge/website-up-yellow)](https://saraa-portfolio.github.io/)  
-[![LinkedIn](https://img.shields.io/badge/connect-linkedin-1abc9c.svg)](https://www.linkedin.com/in/saraa-hammouda/)  
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ### Website Preview  
 <p align="center">  
