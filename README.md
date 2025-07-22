@@ -3,6 +3,10 @@
 
 > https://sarahammoudaa.github.io
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> main
 ### Website Preview  
 <p align="center">  
   <kbd>  
