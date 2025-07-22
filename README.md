@@ -2,11 +2,6 @@
 > A clean, beautiful, responsive portfolio template for Data Science & AI Enthusiasts!
 
 > https://sarahammoudaa.github.io
-
-<<<<<<< HEAD
-=======
-
->>>>>>> main
 ### Website Preview  
 <p align="center">  
   <kbd>  
